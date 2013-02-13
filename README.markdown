@@ -6,7 +6,7 @@ The **geany-snippets** repository provides a collection of code snippets for **G
 
 * **docbook_snippets.conf** — Snippets for the DocBook XML language according to [DocBook: The Definitive Guide, version 2.0.17](http://www.docbook.org/tdg/).
 
-* **mallard_snippets.conf** — Snippets for the Mallard XML language according to [Mallard 1.0 DRAFT (as of 2013-02-11)](http://projectmallard.org/1.0/index.html).
+* **mallard_snippets.conf** — Snippets for the Mallard XML language according to [Mallard 1.0 DRAFT (as of 2013-02-11)](http://projectmallard.org/1.0/index.html). See also my [geany-syntax](https://github.com/jhradilek/geany-syntax) repository for a syntax file for this language.
 
 ## Installation
 
